@@ -1,5 +1,5 @@
 <!--Navbar-->
-<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark unique-color fixed-top" [containerInside]="false">
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark blue-grey fixed-top" [containerInside]="false">
     <!-- Navbar brand -->
     <mdb-navbar-brand><a class="navbar-brand" target="blank" href="https://twitter.com/dylut2000?lang=en">#Dylut2000</a>
     </mdb-navbar-brand>
@@ -25,11 +25,11 @@
         <!-- Links -->
 
         <ul class="navbar-nav ml-auto nav-flex-icons">
-            <li class="nav-item active">
-                <a class="nav-link waves-light" mdbWavesEffect>Home<span class="sr-only">(current)</span></a>
+            <li class="nav-item" routerLinkActive="active">
+                <a class="nav-link waves-light" routerLink="/home" mdbWavesEffect>Home<span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link waves-light" mdbWavesEffect>Test</a>
+            <li class="nav-item" routerLinkActive="active">
+                <a class="nav-link waves-light" routerLink="/test" mdbWavesEffect>Test</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" target="blank" href="https://twitter.com/dylut2000?lang=en">
@@ -65,3 +65,7 @@
     <!-- Collapsible content -->
 </mdb-navbar>
 <!--/.Navbar-->
+
+
+<!--just adding empty space after the navbar, u can edit this with css or remove it with the class of "fixed-top" in the second line-->
+<br><br>
