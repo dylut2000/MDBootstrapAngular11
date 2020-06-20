@@ -7,6 +7,8 @@ import { TestComponent } from './components/test/test.component';
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'test', component: TestComponent },
+ 
+  // default route
   { path: '', redirectTo: '/home', pathMatch: 'full' },
   { path: '**', component: HomeComponent }
 ];
