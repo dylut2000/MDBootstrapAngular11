@@ -4,19 +4,29 @@ simple startup Angular11 MDBootstrap 5. by [Hardy Lutula dylut2000](https://twit
 
 [my GITHUB](https://github.com/dylut2000)
 
-# MDB 5 Angular
+# MDBootstrap Angular
 
-### Angular 11 & Bootstrap 5 & Material Design 2.0 UI KIT
+### Angular 11 & Material Design Bootstrap KIT
 
-**[>> Get Started in 4 steps](https://mdbootstrap.com/docs/b5/angular/getting-started/installation/)**
+**[>> check MDBootstrap components](https://mdbootstrap.com/docs/angular/)**
 
-**[>> MDBAngular 5 Demo](https://mdbootstrap.com/docs/b5/angular#demo)**
+**[>> MDBAngular Demo](https://mdbootstrap.com/docs/b5/angular#demo)**
 
-###### Tutorial for the latest Bootstrap v.5 Alpha. In this video we'll learn about the changes implemented into v.5.
+**[>> Animate.css](https://animate.style/)**
 
-**[>> Click here for a written tutorial](https://mdbootstrap.com/docs/b5/angular/getting-started/quick-start/)**
+**[>> MDB icons](https://mdbootstrap.com/docs/angular/content/icons-list/)**
 
-# Demo
+**[>> Bootstrap SVG icons](https://icons.getbootstrap.com/)**
+
+**[>> Hero SVG icons](https://heroicons.com/)**
+
+**[>> Unsplash, nice and high quality pictures](https://unsplash.com/)**
+
+
+
+
+
+# [Demo](https://mdbootstrap.com/docs/angular/components/demo/)
 
 #### Simplicity and ease of use are key features of MDB 5 Angular UI Kit. You need only one minute to install and run it.
 
@@ -48,21 +58,8 @@ simple startup Angular11 MDBootstrap 5. by [Hardy Lutula dylut2000](https://twit
   </p>
 </a>
 
-### Spinners
 
-<p>Indicate the loading state of a component or page with MDB spinners, built entirely with HTML, CSS, and no JavaScript.</p>
 
-<a href="https://mdbootstrap.com/docs/b5/angular/components/spinners/" alt="Bootstrap 5" rel="dofollow">
-  <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loader.gif">
-  </p>
-</a>
-
-<a href="https://mdbootstrap.com/docs/b5/angular/components/spinners/" alt="Bootstrap 5" rel="dofollow">
-  <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
-  </p>
-</a>
 
 ### Cards
 
@@ -74,15 +71,7 @@ simple startup Angular11 MDBootstrap 5. by [Hardy Lutula dylut2000](https://twit
   </p>
 </a>
 
-### Footer
 
-<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many other elements.</p>
-
-<a href="https://mdbootstrap.com/docs/b5/angular/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
-  <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
-  </p>
-</a>
 
 ### Hover
 
